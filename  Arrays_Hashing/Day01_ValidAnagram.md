@@ -17,7 +17,7 @@ Output(輸出): false
 - 1 <= s.length, t.length <= 5 * 10^4
 - `s` and `t` consist of lowercase English letters(`s` 和 `t` 由小寫英文字母組成)
 
-### Code(程式碼)
+### Code(程式碼):
 
 ```javascript
 /**
@@ -44,6 +44,7 @@ var isAnagram = function(s, t) {
 }
 ```
 
-### Approach(解題思路)
+### Approach(解題思路):
+
 1. 如果 t 是 s 的 anagram，則兩個字串中每個字母的出現次數必須相等。
 2. 使用一個 myMap 去記錄兩者的字母差異，最後檢查是否全部為 0。

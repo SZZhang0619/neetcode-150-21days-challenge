@@ -5,3 +5,4 @@ My 21-day journey to solve all NeetCode 150 problems — 6 problems on weekdays,
 |-----|------------|--------------------|------|
 | 01  | 2025-08-13 | Arrays & Hashing   | [217. Contains Duplicate](./%20Arrays_Hashing/Day01_ContainsDuplicate.md) |
 | 01  | 2025-08-13 | Arrays & Hashing   | [242. Valid Anagram](./%20Arrays_Hashing/Day01_ValidAnagram.md) |
+| 01  | 2025-08-13 | Arrays & Hashing   | [1. Two Sum](./%20Arrays_Hashing/Day01_TwoSum.md) |

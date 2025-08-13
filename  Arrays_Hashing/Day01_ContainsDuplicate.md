@@ -25,7 +25,7 @@ Output(輸出): true
 - 1 <= nums.length <= 10^5
 - -10^9 <= nums[i] <= 10^9
 
-### Code(程式碼)
+### Code(程式碼):
 
 ```javascript
 /**
@@ -44,7 +44,8 @@ var containsDuplicate = function(nums) {
 };
 ```
 
-### Approach(解題思路)
+### Approach(解題思路):
+
 - 使用 Set 資料結構儲存已經出現過的數字。
 - 在遍歷 nums 時，如果當前數字已經在 Set 中出現過，立即回傳 true。
 - 若遍歷結束都沒有重複，回傳 false。
